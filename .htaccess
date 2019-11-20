@@ -1,0 +1,4 @@
+SetEnv host localhost
+SetEnv user test
+SetEnv password password
+SetEnv database testdata
